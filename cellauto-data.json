@@ -13,7 +13,8 @@
       "name": "심연의 아귀",
       "keywords": [
         "심연의 아귀",
-        "아귀"
+        "아귀",
+        "심연의 거대한 입"
       ],
       "attributes": []
     },
@@ -44,6 +45,13 @@
       "keywords": [
         "기계의 심장",
         "기계 치명타"
+      ],
+      "attributes": []
+    },
+       {
+      "name": "알약",
+      "keywords": [
+        "알약"
       ],
       "attributes": []
     }
