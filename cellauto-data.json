@@ -12,7 +12,8 @@
     {
       "name": "심연의 아귀",
       "keywords": [
-        "심연의 아귀"
+        "심연의 아귀",
+        "아귀"
       ],
       "attributes": []
     },
@@ -20,6 +21,13 @@
       "name": "몽키킹",
       "keywords": [
         "몽키킹"
+      ],
+      "attributes": []
+    },
+    {
+      "name": "기계의 심장",
+      "keywords": [
+        "기계의 심장"
       ],
       "attributes": []
     }
