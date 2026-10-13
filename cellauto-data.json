@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "weapons": [
+    {
+      "name": "바이러스 이동 속도",
+      "keywords": [
+        "바이러스 이동 속도",
+        "바이러스 초시 속도"
+      ],
+      "attributes": []
+    },
+    {
+      "name": "심연의 아귀",
+      "keywords": [
+        "심연의 아귀"
+      ],
+      "attributes": []
+    },
+    {
+      "name": "몽키킹",
+      "keywords": [
+        "몽키킹"
+      ],
+      "attributes": []
+    }
+  ]
+}
