@@ -1,3 +1,4 @@
+
 {
   "version": 1,
   "weapons": [
@@ -7,15 +8,15 @@
         "바이러스 이동 속도",
         "바이러스 초시 속도"
       ],
-      "attributes": []
+      "allowSelectAll": false
     },
-        {
+    {
       "name": "광폭화 감소",
       "keywords": [
         "광폭화 감소",
         "바이러스 광폭 효과"
       ],
-      "attributes": []
+      "allowSelectAll": false
     },
     {
       "name": "심연의 아귀",
@@ -24,7 +25,7 @@
         "아귀",
         "심연의 거대한 입"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "몽키킹",
@@ -35,7 +36,7 @@
         "천공파쇄의 번개",
         "킹피해"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "기계의 심장",
@@ -46,7 +47,7 @@
         "3개의 스킬 중 하",
         "무작위로 발사"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "멸망의 별",
@@ -58,7 +59,7 @@
         "폭발",
         "분열"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "조수의돌",
@@ -67,7 +68,7 @@
         "조수",
         "촉수"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "축제의 날개",
@@ -75,28 +76,28 @@
         "축제의 날개",
         "전방으로 깃털을 발사"
       ],
-      "attributes": []
+      "allowSelectAll": false
     },
     {
       "name": "통풍",
       "keywords": [
         "통풍"
       ],
-      "attributes": []
+      "allowSelectAll": true
     },
     {
       "name": "밴드",
       "keywords": [
         "밴드"
       ],
-      "attributes": []
+      "allowSelectAll": false
     },
     {
       "name": "알약",
       "keywords": [
         "알약"
       ],
-      "attributes": []
+      "allowSelectAll": false
     }
   ]
 }
