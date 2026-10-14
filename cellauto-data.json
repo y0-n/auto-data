@@ -55,7 +55,7 @@
     },
     {
       "name": "알약",
-      "keywords": [ "알약", "알악" ],
+      "keywords": [ "알약", "알악", "일악", "일약" ],
       "allowSelectAll": false
     }
   ]
