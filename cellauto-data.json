@@ -26,7 +26,7 @@
     {
       "name": "위성 폭풍",
       "keywords": [ "위성폭중", "위성 폭품", "위성폭품", "위성 폭림", "위성폭림", "위성 폭룸", "위성폭룸"  ],
-      "allowSelectAll": true
+      "allowSelectAll": false
     },
     {
       "name": "멸망의 별",
@@ -40,7 +40,7 @@
       "name": "통풍",
       "keywords": [ "통풍", "통중", "토네이도", "통릉", "동풍", "통품", "동공격", "톰풍피해량", "통룽피해량",
         "대량의 통둥", "한바람욕", "오는바라", "통수량", "통공격반치명" ],
-      "allowSelectAll": true
+      "allowSelectAll": false
     },
     {
       "name": "조수의돌",
